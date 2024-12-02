@@ -33,7 +33,6 @@ Task ini mengontrol LED Merah dan Oranye dengan karakteristik berikut:
 
 ![image](https://github.com/user-attachments/assets/325cc215-4d7c-43ff-8376-1ea3e227526f)
 
-
 ## Konfigurasi Hardware
 - MCU: STM32F4
 - GPIO yang digunakan:
@@ -50,3 +49,6 @@ Task ini mengontrol LED Merah dan Oranye dengan karakteristik berikut:
 - LED menggunakan logika aktif-rendah (active-low), artinya LED menyala ketika pin dalam keadaan LOW
 - Semua LED dikonfigurasi sebagai push-pull output tanpa pull-up/pull-down
 - Program menggunakan HAL (Hardware Abstraction Layer) untuk akses hardware
+
+## Dokumentasi
+![IMG_6591](https://github.com/user-attachments/assets/0bf51b11-682b-4d1c-8f81-826d1df35e07)
