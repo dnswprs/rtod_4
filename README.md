@@ -29,7 +29,7 @@ Task ini mengontrol LED Merah dan Oranye dengan karakteristik berikut:
 - Task istirahat selama 1.5 detik sebelum memulai siklus baru
 - Berjalan dengan prioritas rendah (Low priority)
 
-## Diagram Waktu Task
+## Diagram Task
 
 ![image](https://github.com/user-attachments/assets/325cc215-4d7c-43ff-8376-1ea3e227526f)
 
